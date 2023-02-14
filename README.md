@@ -61,6 +61,9 @@ Write the body of the `dots(PImage img, int resolution)` method as follows:
 2. The circle should be blue of the pixel is below a "significant" value, and red if it is above.
 3. You can decided what is meant by significant red.
 
+Here's an example of what the dots method might do, using a `resolution` value of `20`:
+
+![temp_map_dots](Detect/data/usa-temp-dots.png)
 
 
 
